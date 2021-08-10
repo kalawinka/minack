@@ -1,7 +1,5 @@
-Mining Acknowledgement Texts in Web of Science project
--------------------------------------------------------
--------------------------------------------------------
-
+# Mining Acknowledgement Texts in Web of Science project
+========================================================
 Welcome to the homepage of the DZHW-funded project **Mining Acknowledgement Texts in Web of Science** (MinAck).
 
 ## Introduction
@@ -23,11 +21,14 @@ DZHW, 2021, 4 Months
 
 ## Publications
 1) Akbik, A. (n.d.). The Flair NLP Framework. Retrieved from: https://alanakbik.github.io/flair.html.
+
 2) Diaz-Faes, A. A. & Bordons, M. (2017). Making visible the invisible through the analysis of acknowledgements
 in the humanities. Aslib Journal of Information Management, 69(5), 576–590. Retrieved from:
 https://arxiv.org/pdf/1706.06334.
+
 3) Giles, C. L. & Councill, I. G. (2004). Who gets acknowledged: measuring scientific contributions through
 automatic acknowledgment indexing. Proceedings of the National Academy of Sciences of the United States
 of America, 101(51), 17599–17604.
+
 4) GitHub (2021). Importing custom NER tagger into flair and using.predict. Using BIOUL tagging scheme. ·
 Issue #787 · flairNLP/flair. Retrieved from: https://github.com/flairNLP/flair/issues/787 (16 January, 2021).
