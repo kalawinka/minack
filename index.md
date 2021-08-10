@@ -22,7 +22,7 @@ Nina Smirnova, nina.smirnova@gesis.org
 ## Funding
 DZHW, 2021, 4 Months
 
-## Publications
+## References
 1) Akbik, A. (n.d.). The Flair NLP Framework. Retrieved from: https://alanakbik.github.io/flair.html.
 
 2) Diaz-Faes, A. A. & Bordons, M. (2017). Making visible the invisible through the analysis of acknowledgements
