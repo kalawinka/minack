@@ -7,9 +7,12 @@ The aim of the project is to conduct an analysis of acknowledgment texts from th
 
 An acknowledged entity is an object of acknowledgment which could be names and surnames of individuals (also abbreviations), names of institutions and organizations, numbers, and ids of grants.
 
+The analysis of acknowledgments is particularly interesting as acknowledgments may give an insight on such aspects of scientific society as reward systems, collaboration structures, and hidden research trends (Giles & Councill, 2004).
+
 In our project, the FLAIR NLP Framework will be used to perform the acknowledged entity recognition task. FLAIR is “*an NLP framework designed to facilitate training and distribution of state-of-the-art sequence labeling, text classification and language models*” (Akbik et al.). FLAIR is open-sourced and built on [PyTorch](https://pytorch.org/), which is an open source machine learning library.
 
-As WoS contains millions of metadata records, the data chosen for the present study will be restricted by year and discipline. We plan to analyze articles from four different scientific disciplines published from 2014 to 2019: articles from the social sciences (sociology and economics) and oceanography and computer science to compare. The entire dataset will contain approx. 200,000 entries, i.e., 50,000 from each 4 scientific domain.
+## Project outline
+As WoS contains millions of metadata records, the data chosen for the present study will be restricted by year and discipline. We plan to analyze articles from four different scientific disciplines published from 2014 to 2019: articles from the social sciences (sociology and economics) and oceanography and computer science to compare. The entire dataset will contain approx. 200,000 entries, i.e., 50,000 from each scientific domain.
 
 Two of the aims of the present project are to extract acknowledged entities from the samples set and ascribe them to different categories (described below). FLAIR provides the possibility to create a custom NER tagger (GitHub, 2021). Creating a custom NER tagger will allow us to accomplish these two aims (acknowledged entity recognition and acknowledged entities classification) in one step. As a result, the model should be able to recognize five entity types: **funding agencies** (FUND), **corporations** (COR), **universities** (UNI), **individuals** (IND) and **grant numbers** (GRNB).
 
