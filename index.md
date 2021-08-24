@@ -17,11 +17,11 @@ As WoS contains millions of metadata records, the data chosen for the present st
 Two of the aims of the present project are to extract acknowledged entities from the samples set and ascribe them to different categories (described below). FLAIR provides the possibility to create a custom NER tagger (GitHub, 2021). Creating a custom NER tagger will allow us to accomplish these two aims (acknowledged entity recognition and acknowledged entities classification) in one step. As a result, the model should be able to recognize five entity types: **funding agencies** (FUND), **corporations** (COR), **universities** (UNI), **individuals** (IND) and **grant numbers** (GRNB).
 
 ## Contact
-Nina Smirnova, nina.smirnova@gesis.org
-Philipp Mayr, philipp.mayr@gesis.org
+* Nina Smirnova, nina.smirnova@gesis.org
+* Philipp Mayr, philipp.mayr@gesis.org
 
 ## Funding
-DZHW, 2021, 4 Months
+German Centre for Higher Education Research and Science Studies (DZHW); Start: August 2021; Duration: 4 Months
 
 ## References
 1) Akbik, A. (n.d.). The Flair NLP Framework. Retrieved from: https://alanakbik.github.io/flair.html.
