@@ -1,4 +1,4 @@
-# Mining Acknowledgement Texts in Web of Science project
+# Mining Acknowledgement Texts in Web of Science
 
 Welcome to the homepage of the DZHW-funded project **Mining Acknowledgement Texts in Web of Science** (MinAck).
 
@@ -18,6 +18,7 @@ Two of the aims of the present project are to extract acknowledged entities from
 
 ## Contact
 Nina Smirnova, nina.smirnova@gesis.org
+Philipp Mayr, philipp.mayr@gesis.org
 
 ## Funding
 DZHW, 2021, 4 Months
