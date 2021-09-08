@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/kalawinka/minack/blob/main/logo_round3.png" width="200" height="130"></p>
+<p align="center"><img src="https://octodex.github.com/images/yaktocat.png" width="200" height="130"></p>
 
 # Mining Acknowledgement Texts in Web of Science
 
