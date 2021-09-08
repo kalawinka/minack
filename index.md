@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/kalawinka/minack/blob/media/logo_round3.png?raw=true" width="300" height="200"></p>
+<p align="center"><img src="https://github.com/kalawinka/minack/blob/media/logo_round3.png?raw=true" width="250" height="130"></p>
 
 # Mining Acknowledgement Texts in Web of Science
 
