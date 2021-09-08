@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/kalawinka/minack/blob/main/logo_round3.png" width="200" height="130"></p>
+
 # Mining Acknowledgement Texts in Web of Science
 
 Welcome to the homepage of the DZHW-funded project **Mining Acknowledgement Texts in Web of Science** (MinAck).
