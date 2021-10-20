@@ -19,7 +19,7 @@ As WoS contains millions of metadata records, the data chosen for the present st
 Two of the aims of the present project are to extract acknowledged entities from the samples set and ascribe them to different categories (described below). FLAIR provides the possibility to create a custom NER tagger (GitHub, 2021). Creating a custom NER tagger will allow us to accomplish these two aims (acknowledged entity recognition and acknowledged entities classification) in one step. As a result, the model should be able to recognize five entity types: **funding agencies** (FUND), **corporations** (COR), **universities** (UNI), **individuals** (IND) and **grant numbers** (GRNB).
 
 ## Publications and Talks
-* Mining Acknowledgement Texts in Web of Science. Poster presented at SciNLP 2021: 2nd Workshop on Natural Language Processing for Scientific Text. PDF, [Talk](https://youtu.be/1b0Dso-YOAI)
+* Mining Acknowledgement Texts in Web of Science. Poster presented at [SciNLP 2021](https://scinlp.org/): 2nd Workshop on Natural Language Processing for Scientific Text. PDF, Poster, [Talk](https://youtu.be/1b0Dso-YOAI)
 
 ## Contact
 * Nina Smirnova, nina.smirnova@gesis.org
