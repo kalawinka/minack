@@ -11,7 +11,7 @@ An acknowledged entity is an object of acknowledgment which could be names and s
 
 The analysis of acknowledgments is particularly interesting as acknowledgments may give an insight on such aspects of scientific society as reward systems, collaboration structures, and hidden research trends (Giles & Councill, 2004).
 
-In our project, the FLAIR NLP Framework will be used to perform the acknowledged entity recognition task. FLAIR is “*an NLP framework designed to facilitate training and distribution of state-of-the-art sequence labeling, text classification and language models*” (Akbik et al.). FLAIR is open-sourced and built on [PyTorch](https://pytorch.org/), which is an open source machine learning library.
+In our project, the FLAIR NLP Framework will be used to perform the acknowledged entity recognition task. FLAIR is “*an NLP framework designed to facilitate training and distribution of state-of-the-art sequence labeling, text classification and language models*” (Akbik et al., 2019). FLAIR is open-sourced and built on [PyTorch](https://pytorch.org/), which is an open source machine learning library.
 
 ## Project outline
 As WoS contains millions of metadata records, the data chosen for the present study will be restricted by year and discipline. We plan to analyze articles from four different scientific disciplines published from 2014 to 2019: articles from the social sciences (sociology and economics) and oceanography and computer science to compare. The entire dataset will contain approx. 200,000 entries, i.e., 50,000 from each scientific domain.
@@ -29,7 +29,7 @@ Two of the aims of the present project are to extract acknowledged entities from
 German Centre for Higher Education Research and Science Studies (DZHW); Start: August 2021; Duration: 4 Months
 
 ## References
-1) Akbik, A. (n.d.). The Flair NLP Framework. Retrieved from: https://alanakbik.github.io/flair.html.
+1) Akbik, A., Bergmann, T., Blythe, D., Rasul, K., Schweter, S. & Vollgraf, R. (2019). FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP (W. Ammar, A. Louis, & N. Mostafazadeh, Eds.; pp. 54–59). Association for Computational Linguistics. https://doi.org/10.18653/v1/N19-4010.
 
 2) Diaz-Faes, A. A. & Bordons, M. (2017). Making visible the invisible through the analysis of acknowledgements
 in the humanities. Aslib Journal of Information Management, 69(5), 576–590. Retrieved from:
