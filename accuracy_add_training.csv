@@ -1,0 +1,4 @@
+algorithm,value
+Flair Embeddings (3 Ent),0.7536
+Flair Embeddings (5 Ent),0.799
+Flair Embeddings (RoBERTa),0.6697
