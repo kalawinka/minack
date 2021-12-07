@@ -1,0 +1,19 @@
+algorithm;entity;precision;recall;f1-score;support
+Flair Embeddings;FUND;0.4000;0.4444;0.4211;18
+Flair Embeddings;IND;0.7692;0.8333;0.8000;12
+Flair Embeddings;GRNB;0.5385;0.7000;0.6087;10
+Flair Embeddings;MISC;0.0000;0.0000;0.0000;6
+Flair Embeddings;UNI;0.0000;0.0000;0.0000;3
+Flair Embeddings;COR;0.0000;0.0000;0.0000;1
+TARS (pretrained);FUND;0.3158;0.3333;0.3243;18
+TARS (pretrained);IND;1.0000;0.7500;0.8571;12
+TARS (pretrained);GRNB;0.7273;0.8000;0.7619;10
+TARS (pretrained);MISC;0.0000;0.0000;0.0000;6
+TARS (pretrained);UNI;0.0000;0.0000;0.0000;3
+TARS (pretrained);COR;0.0000;0.0000;0.0000;1
+Transformers;FUND;0.2414;0.3889;0.2979;18
+Transformers;GRNB;0.3000;0.6000;0.4000;10
+Transformers;IND;0.0000;0.0000;0.0000;12
+Transformers;MISC;0.0000;0.0000;0.0000;6
+Transformers;UNI;0.0000;0.0000;0.0000;3
+Transformers;COR;0.0000;0.0000;0.0000;1

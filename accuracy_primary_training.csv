@@ -1,0 +1,7 @@
+algorithm,corpus,value
+Flair Embeddings,no.1 (small),0.7702
+TARS (pretrained),no.1 (small),0.7113
+Transformers,no.1 (small),0.6783
+Flair Embeddings,no.2 (big),0.3472
+TARS (pretrained),no.2 (big),0.3485
+Transformers,no.2 (big),0.1477
