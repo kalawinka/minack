@@ -63,7 +63,7 @@ Table with 4 columns: entity, train, test, dev. \
 •	test: number of sentences containing corresponding entity category in the test set \
 •	dev: number of sentences containing corresponding entity category in the validation set 
 # train_small_no1.csv, test_small_no1.csv, dev_small_no1.csv 
-Contains annotated training, test and validation sets of the corpus no.1 (small) in the csv format. \
+Contain annotated training, test and validation sets of the corpus no.1 (small) in the csv format. \
 Tables with 8 columns: id, txt, GRNB, FUND, IND, UNI, COR, MISC \
 •	id: id of the acknowledgement text \
 •	txt: sentence of the acknowledgement text \
@@ -74,7 +74,7 @@ Tables with 8 columns: id, txt, GRNB, FUND, IND, UNI, COR, MISC \
 •	COR: acknowledged entity which falls into corporation category \
 •	MISC acknowledged entity which falls into miscellaneous category 
 # train_big_no2.csv, test_ big_no2.csv, dev_ big_no2.csv 
-Contains annotated training, test and validation sets of the corpus no.2 (big) in the csv format. \
+Contain annotated training, test and validation sets of the corpus no.2 (big) in the csv format. \
 Tables with 8 columns: id, txt, GRNB, FUND, IND, UNI, COR, MISC \
 •	id: id of the acknowledgement text \
 •	txt: sentence of the acknowledgement text \
@@ -129,7 +129,7 @@ Table with 9 columns: PK_CLASSIFICATIONS, CLASSIFICATION,SCI_FIELD, # records 20
 •	# records 2014-2019 Eng with Ackn filtered by pub/doctype: number of records published between 2014 and 2019 in English, of type article or review, published in a journal, which contain acknowledgement \
 •	#records in acknowledgemnts corpus (real unique values): number of unique records chosen for the acknowledgements corpus
 # analysis_raw_entity_comp.csv, analysis_raw_entity_soc.csv, analysis_raw_entity_eco.csv, analysis_raw_entity_ocean.csv, analysis_raw_entity_total.csv
-Contains analysis of the raw NER tagger output (without disambiguation): frequencies of entities per discipline. Comp stands for computer science, eco stands for economics, soc stands for sociology, ocean stands for oceanography, total is all disciplines together. \
+Contain analysis of the raw NER tagger output (without disambiguation): frequencies of entities per discipline. Comp stands for computer science, eco stands for economics, soc stands for sociology, ocean stands for oceanography, total is all disciplines together. \
 Tables with 10 columns: FUND, freq, MISC, freq.1, UNI, freq.2, COR, freq.3, IND, freq.4 \
 •	freq-frq.4: frequencies of occurrence of acknowledged entity \
 •	FUND: acknowledged entity which falls into funding agency category \
@@ -166,9 +166,9 @@ Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
 •	grantnumber: indexed grant number \
 •	granttext: acknowledgement text
 # train_big.txt, test_big.txt, dev_big.txt
-Contains annotated training, test and validation sets of the corpus no.2 (big) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk. 
+Contain annotated training, test and validation sets of the corpus no.2 (big) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk. 
 # train_small.txt, test_ small.txt, dev_ small.txt 
-Contains annotated training, test and validation sets of the corpus no.1 (small) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk.
+Contain annotated training, test and validation sets of the corpus no.1 (small) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk.
 
 
 
