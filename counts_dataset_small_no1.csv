@@ -1,0 +1,7 @@
+entity,train,test,dev
+GRNB,25,8,7
+IND,18,6,5
+FUND,26,9,7
+UNI,7,2,2
+COR,5,2,2
+MISC,4,3,2

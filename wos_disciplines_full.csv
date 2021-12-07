@@ -1,0 +1,415 @@
+PK_CLASSIFICATIONS,CLASSIFICATION
+1,Engineering
+2,"Medicine, General & Internal"
+3,Horticulture
+4,Surgery
+5,Oncology
+6,Endocrinology & Metabolism
+7,Biochemistry & Molecular Biology
+8,"Geosciences, Multidisciplinary"
+9,Information Science & Library Science
+10,Ophthalmology
+11,Spectroscopy
+12,"Computer Science, Software Engineering"
+13,Anatomy & Morphology
+14,"Radiology, Nuclear Medicine & Medical Imaging"
+15,Physiology
+16,Psychology
+17,Substance Abuse
+18,Education & Educational Research
+19,Orthopedics
+20,Respiratory System
+21,"Engineering, Civil"
+22,Polymer Science
+23,"Materials Science, Multidisciplinary"
+24,Economics
+25,Biochemical Research Methods
+26,Mechanics
+27,Business
+28,"Materials Science, Characterization & Testing"
+29,"Computer Science, Hardware & Architecture"
+30,Evolutionary Biology
+31,Optics
+32,"Computer Science, Artificial Intelligence"
+33,Astronomy & Astrophysics
+34,Music
+35,"Engineering, Ocean"
+36,"Engineering, Aerospace"
+37,Ecology
+38,Paleontology
+39,Medical Ethics
+40,"Engineering, Manufacturing"
+41,Public Administration
+42,Geography
+43,Imaging Science & Photographic Technology
+44,"Film, Radio & Television"
+45,Dance
+46,Mathematics
+47,Folklore
+48,"Psychology, Psychoanalysis"
+49,Water Resources
+50,Plant Sciences
+51,"Public, Environmental & Occupational Health"
+52,Mineralogy
+53,Mining & Mineral Processing
+54,"Chemistry, Medicinal"
+55,Computer Science
+56,Ophthalmology
+57,Pathology
+58,Life Sciences & Biomedicine - Other Topics
+59,Toxicology
+60,"Radiology, Nuclear Medicine & Medical Imaging"
+61,"Psychology, Clinical"
+62,Behavioral Sciences
+63,"Psychology, Multidisciplinary"
+64,Biomedical Social Sciences
+65,Parasitology
+66,Otorhinolaryngology
+67,Transplantation
+68,Hematology
+69,Public Administration
+70,"Medicine, Legal"
+71,"Psychology, Experimental"
+72,"Literature, British Isles"
+73,Literature
+74,Anesthesiology
+75,Anthropology
+76,Limnology
+77,"Physics, Fluids & Plasmas"
+78,Electrochemistry
+79,Electrochemistry
+80,Mycology
+81,Nuclear Science & Technology
+82,"Physics, Mathematical"
+83,Physical Geography
+84,Women's Studies
+85,Meteorology & Atmospheric Sciences
+86,"Psychology, Educational"
+87,Literary Reviews
+88,Medical Laboratory Technology
+89,Operations Research & Management Science
+90,Law
+91,Art
+92,Ergonomics
+93,Area Studies
+94,Microscopy
+95,Remote Sensing
+96,Cultural Studies
+97,Green & Sustainable Science & Technology
+98,General & Internal Medicine
+99,Pharmacology & Pharmacy
+100,"Chemistry, Physical"
+101,Agriculture
+102,Oncology
+103,Peripheral Vascular Disease
+104,Reproductive Biology
+105,Biochemistry & Molecular Biology
+106,Immunology
+107,Virology
+108,Geology
+109,Medical Informatics
+110,Cardiac & Cardiovascular Systems
+111,Pathology
+112,Mathematics
+113,Multidisciplinary Sciences
+114,"Engineering, Biomedical"
+115,Biology
+116,Physiology
+117,Family Studies
+118,Family Studies
+119,Genetics & Heredity
+120,Education & Educational Research
+121,Religion
+122,Rheumatology
+123,"Dentistry, Oral Surgery & Medicine"
+124,Nanoscience & Nanotechnology
+125,Hematology
+126,Statistics & Probability
+127,History
+128,Anesthesiology
+129,Instruments & Instrumentation
+130,Social Work
+131,"Chemistry, Inorganic & Nuclear"
+132,Legal Medicine
+133,Emergency Medicine
+134,Emergency Medicine
+135,"Physics, Particles & Fields"
+136,Thermodynamics
+137,International Relations
+138,Government & Law
+139,Architecture
+140,"Geography, Physical"
+141,Agricultural Economics & Policy
+142,Language & Linguistics
+143,Criminology & Penology
+144,Management
+145,Art
+146,Asian Studies
+147,Classics
+148,Metallurgy & Metallurgical Engineering
+149,Metallurgy & Metallurgical Engineering
+150,Archaeology
+151,Area Studies
+152,Transportation Science & Technology
+153,"Psychology, Mathematical"
+154,"Physics, Nuclear"
+155,"Materials Science, Paper & Wood"
+156,Science & Technology
+157,Technology
+158,Dermatology
+159,Marine & Freshwater Biology
+160,Marine & Freshwater Biology
+161,Cardiovascular System & Cardiology
+162,Integrative & Complementary Medicine
+163,Biophysics
+164,Virology
+165,Infectious Diseases
+166,Health Care Sciences & Services
+167,Medical Informatics
+168,Science & Technology - Other Topics
+169,Cell Biology
+170,Microbiology
+171,Rehabilitation
+172,Rehabilitation
+173,Geriatrics & Gerontology
+174,Urology & Nephrology
+175,Rheumatology
+176,Otorhinolaryngology
+177,Transplantation
+178,Urban Studies
+179,Theater
+180,Developmental Biology
+181,Automation & Control Systems
+182,"Engineering, Electrical & Electronic"
+183,Instruments & Instrumentation
+184,Social Work
+185,"Materials Science, Composites"
+186,Tropical Medicine
+187,Robotics
+188,Entomology
+189,Linguistics
+190,Fisheries
+191,Andrology
+192,Paleontology
+193,Forestry
+194,Telecommunications
+195,"Film, Radio, Television"
+196,Crystallography
+197,Ethnic Studies
+198,Logic
+199,Physical Sciences
+200,Arts & Humanities
+201,Psychiatry
+202,Surgery
+203,Endocrinology & Metabolism
+204,Reproductive Biology
+205,Physics
+206,Immunology
+207,"Computer Science, Information Systems"
+208,"Computer Science, Interdisciplinary Applications"
+209,Information Science & Library Science
+210,Research & Experimental Medicine
+211,"Chemistry, Analytical"
+212,"Mathematics, Applied"
+213,Cell Biology
+214,Nursing
+215,Anatomy & Morphology
+216,"Social Sciences, Biomedical"
+217,Religion
+218,Parasitology
+219,"Chemistry, Organic"
+220,"Psychology, Developmental"
+221,Neuroimaging
+222,"Social Sciences, Interdisciplinary"
+223,Social Sciences - Other Topics
+224,"Agriculture, Dairy & Animal Science"
+225,Planning & Development
+226,Social Issues
+227,History
+228,Anthropology
+229,Tropical Medicine
+230,"Agriculture, Multidisciplinary"
+231,Acoustics
+232,Zoology
+233,"Psychology, Social"
+234,Geochemistry & Geophysics
+235,Architecture
+236,Soil Science
+237,"Literature, Romance"
+238,"Social Sciences, Mathematical Methods"
+239,"Psychology, Applied"
+240,Communication
+241,Meteorology & Atmospheric Sciences
+242,"Psychology, Biological"
+243,"Engineering, Mechanical"
+244,Sociology
+245,Biodiversity & Conservation
+246,Medical Ethics
+247,History Of Social Sciences
+248,Social Issues
+249,Classics
+250,GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY
+251,"Engineering, Multidisciplinary"
+252,Transportation
+253,"Computer Science, Cybernetics"
+254,Crystallography
+255,History & Philosophy of Science
+256,Industrial Relations & Labor
+257,Poetry
+258,"Literature, African, Australian, Canadian"
+259,Development Studies
+260,Water Resources
+261,Energy & Fuels
+262,"Chemistry, Multidisciplinary"
+263,Psychiatry
+264,Dermatology
+265,Obstetrics & Gynecology
+266,"Physics, Atomic, Molecular & Chemical"
+267,Biophysics
+268,Sport Sciences
+269,"Medicine, Research & Experimental"
+270,Spectroscopy
+271,"Computer Science, Theory & Methods"
+272,Toxicology
+273,Environmental Sciences & Ecology
+274,Behavioral Sciences
+275,Geriatrics & Gerontology
+276,Nutrition & Dietetics
+277,"Dentistry, Oral Surgery & Medicine"
+278,"Education, Special"
+279,Mathematical & Computational Biology
+280,Mathematical & Computational Biology
+281,Health Policy & Services
+282,Mechanics
+283,"Hospitality, Leisure, Sport & Tourism"
+284,"Physics, Condensed Matter"
+285,"Education, Scientific Disciplines"
+286,Thermodynamics
+287,Mycology
+288,International Relations
+289,Entomology
+290,Fisheries
+291,Music
+292,Oceanography
+293,Cell & Tissue Engineering
+294,Forestry
+295,Agronomy
+296,Literature
+297,Transportation
+298,Archaeology
+299,History & Philosophy Of Science
+300,"Engineering, Industrial"
+301,Ethnic Studies
+302,Ornithology
+303,Microscopy
+304,Remote Sensing
+305,Cultural Studies
+306,Demography
+307,Demography
+308,"Literature, German, Dutch, Scandinavian"
+309,"Literature, American"
+310,Regional & Urban Planning
+311,Social Sciences
+312,Pharmacology & Pharmacy
+313,"Chemistry, Applied"
+314,Chemistry
+315,Clinical Neurology
+316,Neurosciences
+317,Mining & Mineral Processing
+318,Obstetrics & Gynecology
+319,Integrative & Complementary Medicine
+320,Critical Care Medicine
+321,Veterinary Sciences
+322,Veterinary Sciences
+323,Nursing
+324,Arts & Humanities - Other Topics
+325,Microbiology
+326,Gastroenterology & Hepatology
+327,Gastroenterology & Hepatology
+328,Psychology
+329,Pediatrics
+330,Pediatrics
+331,Urology & Nephrology
+332,Respiratory System
+333,Audiology & Speech-Language Pathology
+334,"Engineering, Geological"
+335,Polymer Science
+336,"Materials Science, Biomaterials"
+337,Allergy
+338,Allergy
+339,Developmental Biology
+340,Ethics
+341,Construction & Building Technology
+342,Primary Health Care
+343,Acoustics
+344,Evolutionary Biology
+345,Nuclear Science & Technology
+346,Linguistics
+347,Political Science
+348,Women's Studies
+349,Philosophy
+350,Communication
+351,Sociology
+352,Biodiversity Conservation
+353,Operations Research & Management Science
+354,Imaging Science & Photographic Technology
+355,"Mathematics, Interdisciplinary Applications"
+356,Development Studies
+357,Quantum Science & Technology
+358,Life Sciences & Biomedicine
+359,"Engineering, Chemical"
+360,Energy & Fuels
+361,Neurosciences & Neurology
+362,Plant Sciences
+363,"Public, Environmental & Occupational Health"
+364,Mineralogy
+365,Infectious Diseases
+366,Sport Sciences
+367,Health Care Sciences & Services
+368,Food Science & Technology
+369,Food Science & Technology
+370,"Humanities, Multidisciplinary"
+371,Environmental Sciences
+372,"Engineering, Environmental"
+373,Substance Abuse
+374,Biotechnology & Applied Microbiology
+375,Genetics & Heredity
+376,Biotechnology & Applied Microbiology
+377,Gerontology
+378,Nutrition & Dietetics
+379,"Physics, Multidisciplinary"
+380,Orthopedics
+381,Audiology & Speech-Language Pathology
+382,Materials Science
+383,Urban Studies
+384,Business & Economics
+385,Theater
+386,Environmental Studies
+387,"Physics, Applied"
+388,Automation & Control Systems
+389,Construction & Building Technology
+390,Geology
+391,Optics
+392,Zoology
+393,Robotics
+394,Astronomy & Astrophysics
+395,"Engineering, Marine"
+396,Oceanography
+397,Geochemistry & Geophysics
+398,Philosophy
+399,"Engineering, Petroleum"
+400,"Materials Science, Ceramics"
+401,Mathematical Methods In Social Sciences
+402,Telecommunications
+403,Criminology & Penology
+404,Medical Laboratory Technology
+405,"Literature, Slavic"
+406,Asian Studies
+407,Geography
+408,"Business, Finance"
+409,Dance
+410,"Materials Science, Coatings & Films"
+411,"Materials Science, Textiles"
+412,Agricultural Engineering
+413,Medieval & Renaissance Studies
+414,Literary Theory & Criticism

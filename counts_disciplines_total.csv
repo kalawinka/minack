@@ -1,0 +1,6 @@
+scientific domain,total scientific domain,# disciplines,# records to choose from each discipline (planned),# records in corpus(planned),# records in corpus(real unique values)
+oceanography,214007.0,6.0,7701;5452;9212x4,50001.0,49782.0
+economics,132554.0,3.0,2x23850;2293,50001.0,49616.0
+computer science,573420.0,10.0,5000,50000.0,49133.0
+sociology,453819.0,15.0,1590;3458x14,50002.0,49491.0
+total,919981.0,,,200004.0,198022.0

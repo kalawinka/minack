@@ -1,0 +1,35 @@
+PK_CLASSIFICATIONS,CLASSIFICATION,SCI_FIELD,# records 2014-2019 Eng,# records 2014-2019 Eng with fund info,# records 2014-2019 Eng with Ackn,# records 2014-2019 Eng filtered by pub/doctype,# records 2014-2019 Eng with Ackn filtered by pub/doctype,#records in acknowledgemnts corpus (real unique values)
+35,"Engineering, Ocean",oceanography,15964,7251,9385,10463,7701,7701
+159,Marine & Freshwater Biology,oceanography,75486,40338,58282,74095,58594,9166
+160,Marine & Freshwater Biology,oceanography,84735,46076,65847,83769,66184,9169
+292,Oceanography,oceanography,50563,29501,38550,47970,38038,9147
+395,"Engineering, Marine",oceanography,14316,5561,7096,8177,5452,5452
+396,Oceanography,oceanography,50563,29501,38550,47970,38038,9147
+24,Economics,economics,183808,35356,54289,124511,49918,23642
+141,Agricultural Economics & Policy,economics,6619,1365,2428,4485,2293,2293
+384,Business & Economics,economics,330031,57633,89003,233895,80343,23681
+64,Biomedical Social Sciences,social sciences,30420,8368,12437,22145,11597,3428
+130,Social Work,social sciences,19067,3259,6038,17094,6035,3423
+184,Social Work,social sciences,19067,3259,6038,17094,6035,3423
+216,"Social Sciences, Biomedical",social sciences,30420,8368,12437,22145,11597,3428
+222,"Social Sciences, Interdisciplinary",social sciences,78659,10373,16232,36205,12080,3418
+223,Social Sciences - Other Topics,social sciences,139617,16900,27538,77529,22224,3423
+226,Social Issues,social sciences,17793,2177,3885,11693,3401,3401
+233,"Psychology, Social",social sciences,25207,5795,8496,24516,8379,3436
+238,"Social Sciences, Mathematical Methods",social sciences,18227,5928,7943,14855,7436,3418
+244,Sociology,social sciences,49437,6624,11184,37176,10784,3439
+247,History Of Social Sciences,social sciences,11806,851,1630,7875,1590,1590
+248,Social Issues,social sciences,17793,2177,3885,11693,3401,3401
+311,Social Sciences,social sciences,1282825,236128,361129,921123,331040,3406
+351,Sociology,social sciences,49437,6624,11184,37176,10784,3439
+401,Mathematical Methods In Social Sciences,social sciences,18227,5928,7943,14855,7436,3418
+12,"Computer Science, Software Engineering",computer science,115908,42169,49693,56194,36150,4901
+29,"Computer Science, Hardware & Architecture",computer science,101838,33647,39466,34353,21579,4934
+32,"Computer Science, Artificial Intelligence",computer science,267452,95811,112490,91196,58630,4933
+55,Computer Science,computer science,910421,328613,389543,357031,237702,4918
+109,Medical Informatics,computer science,32924,12245,16897,22649,14095,4913
+167,Medical Informatics,computer science,32924,12245,16897,22649,14095,4913
+207,"Computer Science, Information Systems",computer science,277724,106858,123732,120895,83756,4966
+208,"Computer Science, Interdisciplinary Applications",computer science,191046,69425,86217,94185,62106,4906
+253,"Computer Science, Cybernetics",computer science,31204,11457,14099,9893,6425,4988
+271,"Computer Science, Theory & Methods",computer science,337239,95398,113212,59848,38882,4761
