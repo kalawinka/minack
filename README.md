@@ -178,18 +178,28 @@ Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
 Contain annotated training, test and validation sets of the corpus no.2 (big) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk. 
 # train_small.txt, test_ small.txt, dev_ small.txt 
 Contain annotated training, test and validation sets of the corpus no.1 (small) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk.
-# [cor_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/GMMwNFSc9BXsT7Y)
-Contains disambiguated NER model output with the COR (corporation) category.
-# [fund_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/XZNYJSWJbSP8JkG) 
-Contains disambiguated NER model output with the FUND (funding organization) category.
-# [ind_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/FXMdfFJE7D7iWDd) 
-Contains disambiguated NER model output with the IND (person) category.
-# [misc_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/3wdG58ScQMCgbYz) 
-Contains disambiguated NER model output with the MISC (miscellaneous) category.
-# [uni_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/9WMQz6DBaKHjott) 
-Contains disambiguated NER model output with the UNI (university) category.
+# [cor_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/GMMwNFSc9BXsT7Y), [fund_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/XZNYJSWJbSP8JkG), [ind_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/FXMdfFJE7D7iWDd), [misc_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/3wdG58ScQMCgbYz), [uni_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/9WMQz6DBaKHjott)
+Contain disambiguated NER model output. File with the core_ prefix in the file name contains entities of the COR (corporation) category, fund_ contains entities of the FUND (funding organization) category, ind_ contains entities of the IND (person) category, misc_ contains entities of the MISC (miscellaneous) category, uni_ contains entities of the UNI (university) category. \
+Table with 9 columns: index, pk_items, entity, label, confidence, doi, fk_classifications, id, disamb \
+•	index: row index \
+•	pk_items: id of the acknowledgement text \
+•	entity: extracted acknowledged entity \
+•	label: label: assigned entity category \
+•	confidence: confidence score \
+•	doi: doi of the article to which the acknowledgment text belongs \
+•	fk_classifications: id of the discipline \
+•	id: id of the extracted entity, assigned during disambiguation. Consists of index + pk_items \
+•	disamb: disambiguated acknowledged entity
 # [acknowledgments_ner_imp.csv.gz](https://gesisbox.gesis.org/index.php/s/e8fTos84Wf2fmje ) 
-Contains NER model output.
+Contains NER model output. \
+Table with 6 columns: pk_items, entity, label, confidence, doi, fk_classifications \
+•	pk_items: id of the acknowledgement text \
+•	entity: extracted acknowledged entity \
+•	label: label: assigned entity category \
+•	confidence: confidence score \
+•	doi: doi of the article to which the acknowledgment text belongs \
+•	fk_classifications: id of the discipline 
+
 
 
 
