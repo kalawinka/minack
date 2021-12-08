@@ -158,6 +158,15 @@ Table with 3 columns: text, abbreviation, full \
 •	text: one of the writing variants of the acknowledged entity \
 •	abbreviation: corresponding abbreviation \
 •	full: correct writing variant of the acknowledged entity
+# analysis_ disambiguated_entity_comp.csv, analysis_ disambiguated_entity_soc.csv, analysis_ disambiguated_entity_eco.csv, analysis_ disambiguated_entity_ocean.csv, analysis_ disambiguated_entity_total.csv
+Contain analysis of the disambiguated NER tagger output: frequencies of entities per discipline. Comp stands for computer science, eco stands for economics, soc stands for sociology, ocean stands for oceanography, total is all disciplines together. \
+Tables with 10 columns: FUND, freq, MISC, freq.1, UNI, freq.2, COR, freq.3, IND, freq.4 \
+•	freq-frq.4: frequencies of occurrence of acknowledged entity \
+•	FUND: acknowledged entity which falls into funding agency category \
+•	IND: acknowledged entity which falls into person category \
+•	UNI: acknowledged entity which falls into university category \
+•	COR: acknowledged entity which falls into corporation category \
+•	MISC acknowledged entity which falls into miscellaneous category 
 # [corpus_1000_without_duplicates.csv.gz](https://gesisbox.gesis.org/index.php/s/e8fTos84Wf2fmje)
 Contains corpus with 1000 acknowledgements texts, which were used to create the training corpora. \
 Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
