@@ -199,6 +199,20 @@ Table with 6 columns: pk_items, entity, label, confidence, doi, fk_classificatio
 •	confidence: confidence score \
 •	doi: doi of the article to which the acknowledgment text belongs \
 •	fk_classifications: id of the discipline 
+# [final-model.pt](https://gesisbox.gesis.org/index.php/s/w96ptRqsoXEpjQk ) 
+Contains FLAIR NER model with the best accuracy (FLAIR Embeddings) trained on the big corpus.
+# [corpus2.csv.gz](https://gesisbox.gesis.org/index.php/s/qXCZkNYzfW3kGkz )
+Contains acknowledgments corpus, which was analyzed with the NER model. \
+Table with columns: pk_items, doi, TO_CHAR(GRT.GRANTTEXT), article_title, doctype, pubtype, pubyear, fk_classifications \
+•	pk_items: id of the acknowledgement text \
+•	doi: doi of the article to which the acknowledgment text belongs \
+•	TO_CHAR(GRT.GRANTTEXT): acknowledgment text \
+•	article_title: name of the article to which the acknowledgment text belongs \
+•	doctype: article document type \
+•	pubtype: article publishing type \
+•	pubyear: article publishing year \
+•	fk_classifications: id of the discipline
+
 
 
 
