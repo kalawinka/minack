@@ -167,7 +167,7 @@ Tables with 10 columns: FUND, freq, MISC, freq.1, UNI, freq.2, COR, freq.3, IND,
 •	UNI: acknowledged entity which falls into university category \
 •	COR: acknowledged entity which falls into corporation category \
 •	MISC acknowledged entity which falls into miscellaneous category 
-# [corpus_1000_without_duplicates.csv.gz](https://gesisbox.gesis.org/index.php/s/e8fTos84Wf2fmje)
+# [corpus_1000_without_duplicates.csv.gz](https://gesisbox.gesis.org/index.php/s/7AgzPcF2X3CgSYA)
 Contains corpus with 1000 acknowledgements texts, which were used to create the training corpora. \
 Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
 •	fk_items: id of the acknowledgement text \
@@ -178,6 +178,19 @@ Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
 Contain annotated training, test and validation sets of the corpus no.2 (big) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk. 
 # train_small.txt, test_ small.txt, dev_ small.txt 
 Contain annotated training, test and validation sets of the corpus no.1 (small) in the IOB2-format. Words marked B- indicate the beginning of the annotated chunk, words marked I- are inside the annotated chunk and words marked O are outside the annotated chunk.
+# [cor_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/GMMwNFSc9BXsT7Y)
+Contains disambiguated NER model output with the COR (corporation) category.
+# [fund_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/XZNYJSWJbSP8JkG) 
+Contains disambiguated NER model output with the FUND (funding organization) category.
+# [ind_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/FXMdfFJE7D7iWDd) 
+Contains disambiguated NER model output with the IND (person) category.
+# [misc_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/3wdG58ScQMCgbYz) 
+Contains disambiguated NER model output with the MISC (miscellaneous) category.
+# [uni_disamb2.csv.gz](https://gesisbox.gesis.org/index.php/s/9WMQz6DBaKHjott) 
+Contains disambiguated NER model output with the UNI (university) category.
+# [acknowledgments_ner_imp.csv.gz](https://gesisbox.gesis.org/index.php/s/e8fTos84Wf2fmje ) 
+Contains NER model output.
+
 
 
 
