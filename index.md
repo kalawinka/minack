@@ -11,7 +11,7 @@ An acknowledged entity is an object of acknowledgment which could be names and s
 
 The analysis of acknowledgments is particularly interesting as acknowledgments may give an insight on such aspects of scientific society as reward systems, collaboration structures, and hidden research trends (Giles & Councill, 2004).
 
-In our project, the FLAIR NLP Framework will be used to perform the acknowledged entity recognition task. FLAIR is “*an NLP framework designed to facilitate training and distribution of state-of-the-art sequence labeling, text classification and language models*” (Akbik et al., 2019). FLAIR is open-sourced and built on [PyTorch](https://pytorch.org/), which is an open source machine learning library.
+In our project, the FLAIR NLP Framework is used to perform the acknowledged entity recognition task. FLAIR is “*an NLP framework designed to facilitate training and distribution of state-of-the-art sequence labeling, text classification and language models*” (Akbik et al., 2019). FLAIR is open-sourced and built on [PyTorch](https://pytorch.org/), which is an open source machine learning library.
 
 ## Project outline
 As WoS contains millions of metadata records, the data chosen for the present study will be restricted by year and discipline. We plan to analyze articles from four different scientific disciplines published from 2014 to 2019: articles from the social sciences (sociology and economics) and oceanography and computer science to compare. The entire dataset will contain approx. 200,000 entries, i.e., 50,000 from each scientific domain.
@@ -20,6 +20,20 @@ Two of the aims of the present project are to extract acknowledged entities from
 
 ## Publications and Talks
 * Mining Acknowledgement Texts in Web of Science. Poster presented at [SciNLP 2021](https://scinlp.org/): 2nd Workshop on Natural Language Processing for Scientific Text. [PDF](https://github.com/kalawinka/minack/blob/conference/abstract_MinAck_SCINLP21_final.pdf), [Poster](https://github.com/kalawinka/minack/blob/conference/poster_sci_nlp.pdf), [Talk](https://youtu.be/1b0Dso-YOAI)
+
+## Demo
+You can try our NER tagger demo by following this link: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kalawinka/minack/main?labpath=example_model.ipynb) 
+
+This demo is an interactive notebook built with the [Jupyter Notebook](https://jupyter.org/) and [Binder](https://mybinder.org/). Two options are available, you can try the model with our example of acknowledgement or you can type in your own acknowledgement text. To use the demo just launch one cell after another and follow the instructions, written in the notebook.
+
+Example of the FLAIR NER tagger trained with the Flair Embeddings model:
+![Demo image](https://github.com/kalawinka/minack/blob/media/Screenshot%20(62).png?raw=true)
+In the first line we created a Sentence object from the sentence: *“This work was supported by State Key Lab of Ocean Engineering Shanghai Jiao Tong University and financially supported by China National Scientific and Technology Major Project (Grant No. 2016ZX05028-006-009).”* The second line generates spans with labelled acknowledged entities from the Sentence object. The third line demonstrates a gold standard: manually annotated acknowledged entities. 
+
+## Data
+The data and the analysis are available [here](https://github.com/kalawinka/minack/tree/results).
 
 ## Contact
 * Nina Smirnova, nina.smirnova@gesis.org; ninasmirnova@web.de
