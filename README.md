@@ -167,7 +167,7 @@ Tables with 10 columns: FUND, freq, MISC, freq.1, UNI, freq.2, COR, freq.3, IND,
 •	UNI: acknowledged entity which falls into university category \
 •	COR: acknowledged entity which falls into corporation category \
 •	MISC acknowledged entity which falls into miscellaneous category 
-# [corpus_1000_without_duplicates.csv.gz](https://gesisbox.gesis.org/index.php/s/7AgzPcF2X3CgSYA)
+# corpus_1000_without_duplicates.csv.gz (this corpus is available via request)
 Contains corpus with 1000 acknowledgements texts, which were used to create the training corpora. \
 Table with 4 columns: fk_items, fundingorganization, grantnumber, granttext \
 •	fk_items: id of the acknowledgement text \
@@ -201,7 +201,7 @@ Table with 6 columns: pk_items, entity, label, confidence, doi, fk_classificatio
 •	fk_classifications: id of the discipline 
 # [final-model.pt](https://gesisbox.gesis.org/index.php/s/w96ptRqsoXEpjQk ) 
 Contains FLAIR NER model with the best accuracy (FLAIR Embeddings) trained on the big corpus.
-# [corpus2.csv.gz](https://gesisbox.gesis.org/index.php/s/qXCZkNYzfW3kGkz )
+# corpus2.csv.gz (this corpus is available via request)
 Contains acknowledgments corpus, which was analyzed with the NER model. \
 Table with columns: pk_items, doi, TO_CHAR(GRT.GRANTTEXT), article_title, doctype, pubtype, pubyear, fk_classifications \
 •	pk_items: id of the acknowledgement text \
