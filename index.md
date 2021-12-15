@@ -33,7 +33,7 @@ Example of the FLAIR NER tagger trained with the Flair Embeddings model:
 In the first line we created a Sentence object from the sentence: *“This work was supported by State Key Lab of Ocean Engineering Shanghai Jiao Tong University and financially supported by China National Scientific and Technology Major Project (Grant No. 2016ZX05028-006-009).”* The second line generates spans with labelled acknowledged entities from the Sentence object. The third line demonstrates a gold standard: manually annotated acknowledged entities. 
 
 ## Data
-The data and the analysis are available [here](https://github.com/kalawinka/minack/tree/results).
+The data and the analysis are available [here](https://github.com/kalawinka/minack/tree/results) and [here](https://zenodo.org/record/5776202).
 
 ## Contact
 * Nina Smirnova, nina.smirnova@gesis.org; ninasmirnova@web.de
