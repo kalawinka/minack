@@ -1,1 +1,1 @@
-wget -O final-model.pt https://gesisbox.gesis.org/index.php/s/w96ptRqsoXEpjQk/download
+wget -O final-model.pt https://zenodo.org/record/5776202/files/final-model.pt?download=1
