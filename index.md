@@ -22,9 +22,7 @@ Two of the aims of the present project are to extract acknowledged entities from
 * Mining Acknowledgement Texts in Web of Science. Poster presented at [SciNLP 2021](https://scinlp.org/): 2nd Workshop on Natural Language Processing for Scientific Text. [PDF](https://github.com/kalawinka/minack/blob/conference/abstract_MinAck_SCINLP21_final.pdf), [Poster](https://github.com/kalawinka/minack/blob/conference/poster_sci_nlp.pdf), [Talk](https://youtu.be/1b0Dso-YOAI)
 
 ## Demo
-You can try our NER tagger demo by following this link: 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kalawinka/minack/main?labpath=example_model.ipynb) 
+You can try our NER tagger demo by following this [link](https://mybinder.org/v2/gh/kalawinka/minack/main?labpath=example_model.ipynb).
 
 This demo is an interactive notebook built with the [Jupyter Notebook](https://jupyter.org/) and [Binder](https://mybinder.org/). Two options are available, you can try the model with our example of acknowledgement or you can type in your own acknowledgement text. To use the demo just launch one cell after another and follow the instructions, written in the notebook.
 
