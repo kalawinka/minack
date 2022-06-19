@@ -1,1 +1,2 @@
-flair==0.11
+flair==0.10
+sacremoses==0.0.53
