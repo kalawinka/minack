@@ -23,7 +23,7 @@ Two of the aims of the present project are to extract acknowledged entities from
 * Smirnova, N. and P. Mayr 2022. Evaluation of embedding models for automatic extraction and classification of acknowledged entities in scientific documents. In C. Zhang, P. Mayr, W. Lu, and Y. Zhang (Eds.), Proceedings of the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE 2022), pp. 48–55. CEUR, Aachen. http://ceur-ws.org/Vol-3210/paper5.pdf
 
 ## Demo
-You can try our NER tagger demo by following this [link](https://colab.research.google.com/drive/1Wz4ae5c65VDWanY3Vo-fj__bFjn-loL4?usp=sharing).
+You can try our NER tagger in [huggingface](https://huggingface.co/kalawinka/flair-ner-acknowledgments) or in this [demo](https://colab.research.google.com/drive/1Wz4ae5c65VDWanY3Vo-fj__bFjn-loL4?usp=sharing).
 
 This demo is an interactive notebook built with the [Google Colab](https://colab.research.google.com/). Two options are available, you can try the model with our example of acknowledgement or you can type in your own acknowledgement text. To use the demo just launch one cell after another and follow the instructions, written in the notebook.
 
